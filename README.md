@@ -1,6 +1,6 @@
 # Axia Front-End Final Project Part 1
 
-![Design preview for the Social links profile coding challenge](./assets/images/preview.png)
+![Design preview for the Social links profile coding challenge](./image/preview.png)
 
 ## Welcome! 👋
 
